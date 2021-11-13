@@ -12,7 +12,7 @@ This is  my first contribution to kaggle competitions. In this competition, We a
 - Python 
 - Keras
 - Scikit-Learn
-- 
+- Xgboost.
 
 ## Live Demo
 
@@ -25,13 +25,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/taherhagui/Bengali.AI-Handwritten-Grapheme-Classification.git
+$ git clone git@github.com:Taher-web-dev/ASHRAE---Great-Energy-Predictor-III.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Bengali.AI-Handwritten-Grapheme-Classification/
+$ cd ASHRAE---Great-Energy-Predictor-III
 ```
 
 
