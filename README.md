@@ -1,5 +1,8 @@
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle logo" width="5%">
+<div>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle logo" width="10%" >
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1095143%2Ff9ab8963dea5e7c1716f47310daa96ab%2FASHRAE_Logo_25.jpg?generation=1570808142334850&alt=media" alt="association-logo" width="5%">
+</div>
 
 # Kaggle project  : ASHRAE---Great-Energy-Predictor-III
 This is  my first contribution to kaggle competitions. In this competition, We are demanded to develop accurate models of metered building energy usage in the following areas: chilled water, electric, hot water, and steam meters. The data comes from over 1,000 buildings over a three-year timeframe. With better estimates of these energy-saving investments, large scale investors and financial institutions will be more inclined to invest in this area to enable progress in building efficiencies.
